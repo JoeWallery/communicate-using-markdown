@@ -14,3 +14,7 @@ int main() {
   printf("Hello, world!\n")
 }
 ```
+
+- [x] Make a task list
+- [x] Add a task
+- [ ] Complete all tasks
